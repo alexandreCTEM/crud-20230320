@@ -11,8 +11,10 @@
     - renomeia de master para main (antes o padrão era master)
 - `git remote add origin ...`
     - sincroniza a pasta local com o repositório do Github na cloud
-- `git push ...`
+- `git push ...` 
     - envia os arquivos para
+- `git clone ...`
+    - copia o projeto do Github remoto para a máquina local
 
 ## Referências
 
