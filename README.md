@@ -15,6 +15,8 @@
     - envia os arquivos para
 - `git clone ...`
     - copia o projeto do Github remoto para a máquina local
+- `git pull`
+    - transfere para ambiente local os arquivos alterados no github remoto
 
 ## Referências
 
